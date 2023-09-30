@@ -9,6 +9,7 @@ metadata:
     alb.ingress.kubernetes.io/tags: Environment=dev,Team=test
     # Please change your security group id(custom, shared backend)
     alb.ingress.kubernetes.io/security-groups: sg-0d571f4123d5fdf21, sg-0c6df110971c1def0
+    # alb.ingress.kubernetes.io/manage-backend-security-group-rules: "true"
 spec:
   ingressClassName: alb
   rules:
