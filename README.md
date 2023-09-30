@@ -5,6 +5,7 @@
 * [1. EKS 설치](./eksctl/)
 * [2. ALB controller 설치](./alb_controller/)
 * [3. 예제](./manifests/)
+* [4. (옵션) kubecost로 EKS가격 측정](./kubecost/)
 
 # 실습 삭제 순서
 * 순서를 지키며 삭제해야 잘 삭제됩니다.
