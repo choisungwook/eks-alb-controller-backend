@@ -1,5 +1,6 @@
 # 개요
 * EKS ALB controller 설정 오류 테스트
+* 블로그 정리: https://malwareanalysis.tistory.com/658
 
 # 목차
 * [1. EKS 설치](./eksctl/)
